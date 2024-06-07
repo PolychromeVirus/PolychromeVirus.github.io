@@ -1,0 +1,12 @@
+{
+  "name": "PolychromeVirus Trackers",
+  "packages": [
+    {
+      "name": "Golden Sun Key Item and Map Tracker",
+      "author": "EmoSaru",
+      "version": "1.0",
+      "uid": "gs_keyitemtracker_poly",
+      "link": "https://polychromevirus.github.io/gs_keyitemtracker_poly.zip"
+    }
+  ]
+}
